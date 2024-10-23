@@ -19,9 +19,4 @@ class Student {
     }
 
 
-    public void addStudent(Student student) {
-        ArrayList<Student> student = new ArrayList<>();
-        System.out.println(student.name);
-    }
-
 }
